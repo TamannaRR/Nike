@@ -1,0 +1,731 @@
+
+@media (min-width: 1200px) and (max-width: 1280px){
+
+}
+
+
+@media (min-width: 1025px) and (max-width: 1199px) {
+  
+    .banner {
+	    padding: 80px 0px 30px 0px;
+	}
+	.banner .banner-title .btn-primary {
+	    margin-left: -9px;
+	    margin-top: -33px;
+	}
+	.banner .banner-title p {
+		margin-top: 160px;
+	    margin-left: -76px;
+	}
+	.banner .social-media {
+	    margin-top: 130%;
+	    margin-left: 85%;
+	}
+  .about-content h2{
+	
+	font-size: 35px;
+   }
+  .about-content p{
+	font-size: 14px;
+	
+   }
+  
+ .popular .card .hover-item i{
+	padding: 8px;
+	margin-left: 3px;
+	font-size: 12px;
+   }
+  .collection .pre-img-box {
+      margin-top: -187px;
+      margin-left: 175px;
+  }
+  .blog .pre-img-box{
+    width: 215px;
+    height: 252px;
+    margin-top: -167px;
+    margin-left: 200px;
+  } 
+  .footer-last p{  
+	font-size: 14px;
+  }
+  .footer-last .social-con ul li a{
+	font-size: 14px;
+  }
+ 
+}
+
+
+
+
+
+@media (min-width: 992px) and (max-width: 1024px) {
+
+    .banner {
+	    padding: 80px 0px 30px 0px;
+	}
+	.banner .banner-title .btn-primary {
+	    margin-left: -9px;
+	    margin-top: -33px;
+	}
+	.banner .banner-title p {
+		margin-top: 160px;
+	    margin-left: -76px;
+	}
+	.banner .social-media {
+	    margin-top: 130%;
+	    margin-left: 85%;
+	}
+      .about-content h2{
+        
+        font-size: 35px;
+    }
+      .about-content p{
+        font-size: 14px;
+        
+    }
+      
+     .popular .card .hover-item i{
+        padding: 8px;
+        margin-left: 3px;
+        font-size: 12px;
+    }
+      .collection .pre-img-box {
+          margin-top: -187px;
+          margin-left: 175px;
+    }
+      .blog .pre-img-box{
+        width: 215px;
+        height: 252px;
+        margin-top: -167px;
+        margin-left: 200px;
+    }
+    .footer-last p{
+        font-size: 14px;
+    }
+    .footer-last .social-con ul li a{
+        font-size: 14px;
+    }
+  footer .col-md-2 {
+      -ms-flex: 0 0 30%;
+      flex: 0 0 32%;
+      max-width: 30%;
+      padding-bottom: 30px;
+  }
+  footer .col-md-6 {
+      -ms-flex: 0 0 100%;
+      flex: 0 0 100%;
+      max-width: 100%;
+      text-align: center;
+  }
+
+
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+    .banner {
+	    padding: 80px 0px 30px 0px;
+    }
+    .banner .banner-title .btn-primary {
+	    margin-inline: -31px;
+       padding: 10px 30px;
+       margin-top: -33px;
+    }
+    .banner .banner-middle img{
+        margin-top: 121px;
+    }
+	
+	.banner .banner-title p {
+		margin-top: 160px;
+	    margin-left: -76px;
+	}
+	.banner .social-media {
+	    margin-top: 160%;
+	    margin-left: 85%;
+	}
+    .about .about-img img{
+        box-shadow: 1px 1px 28px -5px #ddd;
+        position: relative;
+        margin-left: 90px;
+    }
+    .about-content{
+        padding-top: 5%;
+        position: absolute;
+    }
+    .about-content h2{
+        font-size: 29px;
+        margin-top: 43px;
+    }
+    .about-content p{
+        font-size: 14px;
+    }
+    .about .about-content .btn-info{
+        padding: 20px 61px;
+    }
+    .about .about-content .btn-primary{
+        font-size: 13px;
+        padding: 8px 26px;
+    }
+    .popular .card{
+        margin-right: 0px;
+    }
+      
+     .popular .card .hover-item i{
+        padding: 6px;
+        margin-left: 4px;
+        font-size: 11px;
+    }
+    .popular .card h4{
+        font-size: 13px;
+    }
+    .popular .card h3{
+        font-size: 17px;
+    }
+    .popular .card span{
+        margin-left: 10px;
+    }
+
+      .collection .pre-img-box {
+          margin-top: -187px;
+          margin-left: 175px;
+    }
+    .collection .pre-text h2{
+        font-size: 30px;
+        margin-top: 40px;
+        margin-bottom: 20px;
+    }
+    .collection .pre-text p{
+        color: #a1a1a1;
+        margin-bottom: 30px;
+        font-size: 14px;
+    }
+    .collection .pre-img-box{
+        width: 191px;
+        height: 245px;
+        margin-top: -154px;
+        margin-left: 127px;
+    }
+    .we-thought .we-thought-text h2{
+        font-size: 35px;
+    }
+    .we-thought .we-thought-text p{
+        font-size: 15px;
+        line-height: 20px;
+    }
+    
+      .blog .pre-img-box{
+        width: 191px;
+        height: 245px;
+        margin-top: -154px;
+        margin-left: 127px;
+    }
+    .footer-last p{
+        font-size: 14px;
+    }
+    .footer-last .social-con ul li a{
+        font-size: 14px;
+    }
+  footer .col-md-2 {
+      -ms-flex: 0 0 30%;
+      flex: 0 0 32%;
+      max-width: 30%;
+      padding-bottom: 30px;
+    }
+  footer .col-md-6 {
+      -ms-flex: 0 0 100%;
+      flex: 0 0 100%;
+      max-width: 100%;
+      text-align: center;
+    }
+
+}
+
+
+
+
+@media (min-width: 481px) and (max-width: 767px) {
+    .header-section {
+	    padding: 25px 0px;
+	}
+	.banner {
+	    text-align: center;
+	    padding: 35px 0px 0px 0px;
+	}
+	.banner .banner-title {
+	    text-align: center !important;
+	}
+	.banner .banner-title h1 {
+	    margin-bottom: 10px;
+	    font-size: 70px;
+	}
+	.banner .banner-title p {
+	    font-size: 14px;
+	    line-height: 24px;
+	    transform: rotate(0deg);
+	    text-align: center;
+	    margin-top: 15px;
+	    margin-left: 0px;
+	}
+	.banner .banner-title .btn-box {
+	    width: 100%;
+	    margin-left: 0%;
+	}
+	.banner .banner-title .btn-info {
+	    border: 2px solid #fff;
+	}
+	.banner .banner-title .btn-primary {
+	    color: #000;
+	    background: #fff;
+	}
+	.banner .banner-middle img {
+	    margin-top: 15px;
+	    width: 74%;
+	}
+	.banner .social-media {
+	    margin-top: 20px;
+	    margin-left: 0px;
+	}
+	.banner .social-media ul li {
+	    list-style: none;
+	    display: inline-block;
+	    margin: 5px;
+	}
+
+    .about{
+        margin-bottom: 270px;
+        padding: 50px 0px;
+    }
+
+    .about .about-img img{
+        display: none;
+    }
+    .about-content{
+        padding-top: 0%;
+    }
+    .about-content h2{
+        font-size: 22px;
+        
+    }
+    .about-content p{
+        font-size: 12px;
+    }
+    .about .about-content .btn-info{
+        padding: 16px 50px;
+    }
+    .about .about-content .btn-primary{
+        font-size: 11px;
+        padding: 8px 26px;
+    }
+    .popular h3{
+        font-size: 27px;
+        margin-bottom: 30px;
+        
+    }
+      
+     .popular .card .hover-item i{
+        padding: 6px;
+        margin-left: 4px;
+        font-size: 11px;
+    }
+    .popular .card h4{
+        font-size: 13px;
+    }
+    .popular .card h3{
+        font-size: 17px;
+    }
+    .popular .card span{
+        margin-left: 10px;
+    }
+    .collection .pre-text h2{
+        font-size: 30px;
+        margin-top: 10px;
+        margin-bottom: 20px;
+    }
+    .collection .pre-text p{
+        color: #a1a1a1;
+        margin-bottom: 30px;
+        font-size: 14px;
+    }
+    .collection .pre-text .btn-primary{
+        font-size: 13px;
+    }
+    .collection img{
+        margin-top: 40px;
+        width: 50%;
+        border: 5px solid #fff;
+        box-shadow: 1px 1px 28px -5px #ddd;
+    
+    }
+    .collection .pre-img-box{
+        width: 191px;
+        height: 245px;
+        margin-top: -154px;
+        margin-left: 127px;
+    }
+    .we-thought .we-thought-text h2{
+        font-size: 35px;
+    }
+    .we-thought .we-thought-text p{
+        font-size: 15px;
+        line-height: 20px;
+    }
+    .blog img{
+        width: 50%;
+        border: 5px solid #fff;
+        box-shadow: 1px 1px 28px -5px #ddd;
+        
+    }
+    .blog .pre-img-box{
+        width: 220px;
+        height: 242px;
+        margin-left: 170px;
+        margin-bottom: 30px;
+    }
+    
+    .footer-last p{
+        font-size: 14px;
+    }
+    .footer-last .social-con ul li a{
+        font-size: 14px;
+    }
+  
+  footer .footer-top {
+      text-align: center;
+  }
+  footer .footer-top ul {
+      margin-left: 0px;
+      margin-top: 20px;
+  }
+  footer .footer-top h6 {
+      margin-bottom: 20px;
+      margin-top: 20px;
+  }
+  footer .col-md-2{
+      width: 100%;
+  }
+  
+}
+  
+  
+
+@media (min-width: 430px) and (max-width: 480px) {
+    
+    .header-section {
+	    padding: 25px 0px;
+	}
+	.banner {
+	    text-align: center;
+	    padding: 35px 0px 0px 0px;
+	}
+	.banner .banner-title {
+	    text-align: center !important;
+	}
+	.banner .banner-title h1 {
+	    margin-bottom: 10px;
+	    font-size: 70px;
+	}
+	.banner .banner-title p {
+	    font-size: 14px;
+	    line-height: 24px;
+	    transform: rotate(0deg);
+	    text-align: center;
+	    margin-top: 15px;
+	    margin-left: 0px;
+	}
+	.banner .banner-title .btn-box {
+	    width: 100%;
+	    margin-left: 0%;
+	}
+	.banner .banner-title .btn-info {
+	    border: 2px solid #fff;
+	}
+	.banner .banner-title .btn-primary {
+	    color: #000;
+	    background: #fff;
+	}
+	.banner .banner-middle img {
+	    margin-top: 15px;
+	    width: 74%;
+	}
+	.banner .social-media {
+	    margin-top: 20px;
+	    margin-left: 0px;
+	}
+	.banner .social-media ul li {
+	    list-style: none;
+	    display: inline-block;
+	    margin: 5px;
+	}
+
+    .about{
+        margin-bottom: 270px;
+        padding: 50px 0px;
+    }
+
+    .about .about-img img{
+        display: none;
+    }
+    .about-content{
+        padding-top: 0%;
+    }
+    .about-content h2{
+        font-size: 22px;
+        
+    }
+    .about-content p{
+        font-size: 12px;
+    }
+    .about .about-content .btn-info{
+        padding: 16px 50px;
+    }
+    .about .about-content .btn-primary{
+        font-size: 11px;
+        padding: 8px 26px;
+    }
+    .popular h3{
+        font-size: 27px;
+        margin-bottom: 30px;
+        
+    }
+      
+     .popular .card .hover-item i{
+        padding: 4px;
+        margin-left: 4px;
+        font-size: 11px;
+    }
+    .popular .card h4{
+        font-size: 13px;
+    }
+    .popular .card h3{
+        font-size: 17px;
+    }
+    .popular .card span{
+        margin-left: 10px;
+    }
+    .collection .pre-text h2{
+        font-size: 30px;
+        margin-top: 10px;
+        margin-bottom: 20px;
+    }
+    .collection .pre-text p{
+        color: #a1a1a1;
+        margin-bottom: 30px;
+        font-size: 14px;
+    }
+    .collection .pre-text .btn-primary{
+        font-size: 13px;
+    }
+    .collection img{
+        margin-top: 45px;
+        width: 50%;
+        border: 5px solid #fff;
+        box-shadow: 1px 1px 28px -5px #ddd;
+    
+    }
+    .collection .pre-img-box{
+        width: 191px;
+        height: 225px;
+        margin-top: -154px;
+        margin-left: 107px;
+    }
+    .we-thought .we-thought-text h2{
+        font-size: 35px;
+    }
+    .we-thought .we-thought-text p{
+        font-size: 15px;
+        line-height: 20px;
+    }
+    .blog img{
+        width: 50%;
+        border: 5px solid #fff;
+        box-shadow: 1px 1px 28px -5px #ddd;
+        
+    }
+    .blog .pre-img-box{
+        width: 200px;
+        height: 242px;
+        margin-left: 100px;
+        margin-bottom: 30px;
+    }
+    
+    .footer-last p{
+        font-size: 14px;
+    }
+    .footer-last .social-con ul li a{
+        font-size: 14px;
+    }
+  
+  footer .footer-top {
+      text-align: center;
+  }
+  footer .footer-top ul {
+      margin-left: 0px;
+      margin-top: 20px;
+  }
+  footer .footer-top h6 {
+      margin-bottom: 20px;
+      margin-top: 20px;
+  }
+  footer .col-md-2{
+      width: 100%;
+  }
+}
+
+@media (min-width: 50px) and (max-width: 431px){
+
+    .header-section {
+	    padding: 25px 0px;
+	}
+	.banner {
+	    text-align: center;
+	    padding: 35px 0px 0px 0px;
+	}
+	.banner .banner-title {
+	    text-align: center !important;
+	}
+	.banner .banner-title h1 {
+	    margin-bottom: 10px;
+	    font-size: 70px;
+	}
+	.banner .banner-title p {
+	    font-size: 14px;
+	    line-height: 24px;
+	    transform: rotate(0deg);
+	    text-align: center;
+	    margin-top: 15px;
+	    margin-left: 0px;
+	}
+	.banner .banner-title .btn-box {
+	    width: 100%;
+	    margin-left: 0%;
+	}
+	.banner .banner-title .btn-info {
+	    border: 2px solid #fff;
+	}
+	.banner .banner-title .btn-primary {
+	    color: #000;
+	    background: #fff;
+	}
+	.banner .banner-middle img {
+	    margin-top: 15px;
+	    width: 74%;
+	}
+	.banner .social-media {
+	    margin-top: 20px;
+	    margin-left: 0px;
+	}
+	.banner .social-media ul li {
+	    list-style: none;
+	    display: inline-block;
+	    margin: 5px;
+    }
+    .about{
+        margin-bottom: 270px;
+        padding: 50px 0px;
+    }
+
+    .about .about-img img{
+        display: none;
+    }
+    .about-content{
+        padding-top: 0%;
+    }
+    .about-content h2{
+        font-size: 22px;
+        
+    }
+    .about-content p{
+        font-size: 12px;
+    }
+    .about .about-content .btn-info{
+        padding: 16px 50px;
+    }
+    .about .about-content .btn-primary{
+        font-size: 11px;
+        padding: 8px 26px;
+    }
+    .popular h3{
+        font-size: 27px;
+        margin-bottom: 30px;
+        
+    }
+      
+    .popular .card .hover-item i{
+        padding: 4px;
+        margin-left: 4px;
+        font-size: 8px;
+    }
+    .popular .card h4{
+        font-size: 12px;
+    }
+    .popular .card h3{
+        font-size: 15px;
+    }
+    .popular .card span{
+        margin-left: 9px;
+    }
+    .collection .pre-text h2{
+        font-size: 30px;
+        margin-top: 10px;
+        margin-bottom: 20px;
+    }
+    .collection .pre-text p{
+        color: #a1a1a1;
+        margin-bottom: 30px;
+        font-size: 14px;
+    }
+    .collection .pre-text .btn-primary{
+        font-size: 13px;
+    }
+    .collection img{
+        margin-top: 45px;
+        width: 50%;
+        border: 5px solid #fff;
+        box-shadow: 1px 1px 28px -5px #ddd;
+    
+    }
+    .collection .pre-img-box{
+        display: none;
+    }
+    .we-thought .we-thought-text h2{
+        font-size: 33px;
+    }
+    .we-thought .we-thought-text p{
+        font-size: 14px;
+        line-height: 20px;
+    }
+    .blog img{
+        width: 50%;
+        border: 5px solid #fff;
+        box-shadow: 1px 1px 28px -5px #ddd;
+        
+    }
+    .blog .pre-img-box{
+        display: none;
+    }
+    
+    .footer-last p{
+        font-size: 14px;
+    }
+    .footer-last .social-con ul li a{
+        font-size: 14px;
+    }
+  
+  footer .footer-top {
+      text-align: center;
+  }
+  footer .footer-top ul {
+      margin-left: 0px;
+      margin-top: 20px;
+  }
+  footer .footer-top h6 {
+      margin-bottom: 20px;
+      margin-top: 20px;
+  }
+  footer .col-md-2{
+      width: 100%;
+  }
+
+}
+
+
+
